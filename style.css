@@ -1,0 +1,17 @@
+html{
+    .box {
+        background: rgba(red, green, blue, alpha);
+
+    }
+button {
+    padding: 20px;
+    margin: 5px;
+}
+button{
+    border-radius: 4px;
+}
+button {
+    box-shadow: 0 4px 6px rgb(78, 45, 95);
+}
+}
+
